@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: white;
+
+}
+a {
+    color: aquamarine;
+
+}
+p { 
+    display: block;
+    color: gray
+}
+footer {
+    float: right;
+}
